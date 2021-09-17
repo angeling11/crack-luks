@@ -12,7 +12,7 @@ And mounted:
 
 
 ## Usage
-./crack_luks <encrypted disk> <wordlist>
+`./crack_luks <encrypted disk> <wordlist>`
 
 
 ## Author
